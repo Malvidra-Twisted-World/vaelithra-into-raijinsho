@@ -4,7 +4,7 @@
 
 The adventure begins with the party established at the docks.
 
-> [!info] **Read-Aloud Text:**
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> **Read-Aloud Text:**
 > The docks of **Thundrum Port** are a tempest of activity on this **Sylvryn Day**. The air is thick with the smells of drying salt, burning tar, and the sweat of laborers. Amidst the chaos of pirate and merchant vessels, a youthful, slightly built **sea urchin newspaper girl** makes her way directly toward you. Her clothes are common and slightly damp, and she clutches a small stack of papers under one arm. Her eyes are strikingly light—a cool, pale silver that seems to hold a wisdom far older than her apparent age—and she offers a concise, intense greeting.
 
 ### DM Information
@@ -23,7 +23,7 @@ If the party agrees to hear the full offer, the Vaelithra nods and points toward
 
 The **Sea Urchin Newspaper Girl** has delivered her pitch and given the party directions to the *Glowing Gate*, but she pauses, leaving the final few feet of the journey to the players.
 
-> [!info] **Read-Aloud Text:**
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> **Read-Aloud Text:**
 > The sea urchin nods once, her strange silver eyes fixed on your group, and points toward a battered caravel, the **Glowing Gate**, a few docks down. "She's waiting. You should talk now before you approach." With that, she turns and darts back into the crowd, leaving you with the heavy knowledge of the dragon's challenge and the unsettling feeling that she knows far more than she let on. The time is yours to prepare before you commit to **Captain Thania Schmidt's** raid.
 
 #### DM Information
@@ -49,7 +49,7 @@ Here is the final scene of **Chapter 1: The Hook at Thundrum Port**, completing 
 
 The **Sea Urchin Vaelithra** has done her part. Now the adventurers must commit to the contract with the pirate captain.
 
->[!info] **Read-Aloud Text:**
+>[!NOTE] <!--easygit-callout:original=info,collapse=--> **Read-Aloud Text:**
 > The **Glowing Gate** is a ship that has seen too much hard living. Its hull shows patched wood, and its rigging is frayed—a genuine pirate vessel, not a pleasure craft. Standing on the worn deck is **Captain Thania Schmidt**. She is a compact woman, dressed in rough leather and armed with two cutlasses belted across her waist. Her face is a map of scars and sun exposure, and her eyes, devoid of any empathy, are impatient. She nods curtly toward the dock, having seen the newspaper girl dart away, and gestures you aboard. "Don't waste my time. The offer is simple."
 
 ### DM Information

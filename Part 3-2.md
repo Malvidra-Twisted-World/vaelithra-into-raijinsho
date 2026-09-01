@@ -6,7 +6,7 @@ This chapter covers the two-day, high-tension voyage to **Raijinsho Island**. It
 
 The adventure immediately shifts from negotiation to preparation.
 
-> [!info] **Read-Aloud Text:**
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> **Read-Aloud Text:**
 > The docks of **Thundrum Port** fall away behind you as the **Glowing Gate** is quickly maneuvered out into the open water. The ship is sturdy, but loud—every timber groans as the vessel catches the wind. Captain Thania gives you a single, grim nod as the sun begins its slow descent. You have approximately **forty-eight hours** of travel ahead. With every league sailed, the air grows colder, and the sea becomes darker and more turbulent, building a palpable sense of dread as you head toward the magically frozen silhouette of **Raijinsho Island**.
 
 ### DM Information

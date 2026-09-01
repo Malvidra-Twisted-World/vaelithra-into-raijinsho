@@ -7,6 +7,6 @@ Campaign: Vaelithra - Into Raijinsho
 type: player
 team_group: B
 ---
-![[Gabriel.png]]
+![](Assets/Gabriel.png)
 
 <iframe src="https://www.dndbeyond.com/characters/157622865/Cx8Mq1" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>

@@ -26,7 +26,7 @@ Session: "2"
 ## Party
 
 1. [ ] F as [[Marnok|Marnok]] (Earth Genasi / Druid)
->[!Info]
+>[!NOTE] <!--easygit-callout:original=Info,collapse=-->
 	> Mendengar kabar soal Raijinsho dan dia menunggu di dekat pohon, jadi coba cari scene yang mirip mirip ada pohonnya untuk entrance
 	> Cantrips:
 Guidance
@@ -58,20 +58,20 @@ Mass Cure Wounds
 Greater Restoration
 
 1. [ ] Efernandes as [[Rathbone|Rathbone]] (Halfling / Barbarian)
-> [!info]
+> [!NOTE] <!--easygit-callout:original=info,collapse=-->
 > Kenal Captain Thania jadi mungkin dia ada di dekat kapal setelah mencari kapal
 2. [ ] DarkMz as [[Zell|Zell]] (Human / Monk)
-> [!info]
+> [!NOTE] <!--easygit-callout:original=info,collapse=-->
 > Zell tujuannya mencari emas, jadi mungkin entrance bisa dari semacam Tavern
 3. [ ] Yoon as [[Hyde|Hyde]] (Human / Fighter)
-> [!info]
+> [!NOTE] <!--easygit-callout:original=info,collapse=-->
 > Nungguin Ramoy tapi ramoynya gaada
 > 
 4. [ ] Vito as [[V|V]] (Tiefling / Warlock 6 - Rogue 3)
-> [!info]
+> [!NOTE] <!--easygit-callout:original=info,collapse=-->
 > Mencari seseorang bernama Azriel yang diduga bersembunyi di Thundrum Port, entrance di tengah kota tengah mengamati kota Thundrum, akan bertemu Azriel di Raijinsho
 5. [ ]  Viz as [[Sasha|Sasha]]
->[!info]
+>[!NOTE] <!--easygit-callout:original=info,collapse=-->
 
 
 # Notes

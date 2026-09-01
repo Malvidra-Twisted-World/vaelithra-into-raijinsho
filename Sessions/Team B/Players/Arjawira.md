@@ -9,6 +9,6 @@ hp: "76"
 ac: "17"
 modifier: "8"
 ---
-![[Arjawira.png]]
+![](Assets/Arjawira.png)
 
 <iframe src="https://www.dndbeyond.com/characters/158891333" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
