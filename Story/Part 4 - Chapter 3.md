@@ -72,6 +72,43 @@ In a medium-sized tunnel junction, the party discovers a chest fused into a shee
 
 The winding tunnels occasionally reveal ancient, carved stone that predates the dragon, hinting at a former sanctuary. This can be solved to gain a tactical advantage or a minor reward.
 
+### Path A: The Forgotten Sanctuary
+
+The geothermal mechanism groans beneath the stone. As the final lever is pressed, warmth pulses through the carved serpent and spreads into the frozen passage.
+
+The ice cracks.
+
+A narrow chamber is revealed beyond.
+
+> **Read-Aloud Text:**
+> Warm air rolls from the darkness.
+>
+> Beyond the melted ice lies a small stone alcove, untouched by the dragon's corruption. Old serpent carvings cover the walls, their scales worn smooth by centuries of prayer and offerings.
+>
+> At the center rests a shallow stone basin filled with ancient coins, gemstones, and a single jade carving of a coiled serpent.
+>
+> Whatever this place once was, it was not built for thieves.
+> It was built for those who came seeking healing.
+
+### Forgotten Sanctuary Treasure
+
+The chamber contains:
+
+* **200 gp** in ancient Raijinsho coins. The coins bear the symbol of the Serpent God and may be worth more to collectors than their face value.
+* **3 × Gemstones**, each worth **50 gp**.
+* **1 × Potion of Superior Healing**, sealed within a ceramic container and miraculously preserved by the geothermal warmth.
+* **Serpent Idol**, a small jade carving worth **100 gp** as an art object.
+
+### The Serpent's Inscription
+
+A character who examines the walls and succeeds on a **DC 15 Intelligence (History or Religion)** check can decipher part of the ancient inscription:
+
+> *“Strength without healing becomes cruelty. Envy without restraint becomes ruin. Seek neither perfection nor weakness. Seek balance.”*
+
+The inscription provides additional context for the beliefs of Raijinsho's former inhabitants and foreshadows the connection between the island's ancient faith and the **Koi Vaelithra**.
+
+The **Serpent Idol** is non-magical and does not count toward Captain Thania's magic-item share.
+
 #### Puzzle: The Warm Path
 
 In a large central chamber, three paths lead deeper into the labyrinth. Two are choked with ice; the third is clear but marked by an ominous dragon claw scratch (Path C, the direct way to Harann).
