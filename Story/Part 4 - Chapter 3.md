@@ -108,10 +108,15 @@ In a long, straight tunnel that shows signs of recent, meticulous cleanup, the D
 
 ### The Dragon's Lair Entrance
 
-The final path (likely Path C or the successful Path B) leads to a massive, cavernous entrance, reeking of ozone, death, and frozen fish.
+Beyond the labyrinth lies a massive cavernous passage, reeking of ozone, death, and frozen fish.
 
-* **Final Encounter:** The party has reached the main lair of **Harann Nemmonis**.
+The walls here are marked with deep claw scars and patches of unnatural frost. The temperature drops sharply as the party approaches the dragon's domain.
 
+There is no longer any doubt: **Harann Nemmonis** has made her lair somewhere beyond.
+
+The party has reached the final approach to the dragon's territory.
+
+* **Final Encounter:** The party proceeds toward **Harann Nemmonis**, the Adult White Dragon ruling Raijinsho.
 ### The True Objective: The Koi Vaelithra
 
 Beyond the sealed door lies a small sanctuary of the Serpent God.

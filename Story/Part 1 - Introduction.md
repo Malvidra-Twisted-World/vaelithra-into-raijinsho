@@ -112,16 +112,17 @@ Raijinsho became a graveyard of greed.
 
 ### The Koi Vaelithra — Fragment of Warm Eternity
 
-Hidden deep beneath the frozen caverns lies one of Vaeil’s divine shards: the **Koi Vaelithra**. This fragment manifests as a silver-scaled koi spirit that swims within a magically warm subterranean pond — untouched by Harann’s frost.
+Hidden within a secret sanctuary near the entrance of Raijinsho's frozen caverns lies one of Vaeil's divine shards: the **Koi Vaelithra**.
 
-The Koi’s power preserves a small circle of serenity, a final remnant of the Serpent God’s domain. Its divine energy continually resists Harann’s control, and if fully awakened, could *restore the island’s natural balance* — but the dragon’s corruption grows stronger each year.
+The fragment manifests as a silver-scaled koi spirit that swims within a small, magically warm **geothermal pond**, sealed behind an ancient passage belonging to the **Serpent God of Health and Envy**.
 
-The **Human Vaelithra, Renata**, foresaw this decay through the Archives of Time. To preserve the fragment and Raijinsho’s sanctity, she *stepped backward through time itself*, appearing in the current age to orchestrate one decisive event: the removal of Harann Nemmonis.
+The sanctuary has remained untouched by Harann's frost. The geothermal waters preserve a small circle of warmth and serenity, allowing the Koi to remain hidden from the dragon's influence.
 
-By weaving mortal greed, divine design, and the illusion of coincidence, Renata ensures that a band of capable adventurers will board Captain Thania’s ship at the right moment — unknowingly answering a god’s summons hidden within a pirate’s bargain.
+The Koi's divine presence continually resists Harann's corruption. Its existence is one of the last remnants of the Serpent God's sanctuary beneath Raijinsho.
 
----
+The **Human Vaelithra, Renata**, foresaw the island's decay through the Archives of Time. To preserve the fragment and Raijinsho's sanctity, she stepped backward through time itself, appearing in the current age to orchestrate one decisive event: the removal of Harann Nemmonis.
 
+By weaving mortal greed, divine design, and the illusion of coincidence, Renata ensures that a band of capable adventurers will board Captain Thania's ship at the right moment — unknowingly answering a god's summons hidden within a pirate's bargain.
 ### The Divine Threads of Purpose
 
 This is not a story of divine prophecy fulfilled, but of mortals entangled in one.
@@ -222,5 +223,5 @@ Renata’s presence in this perfectly ordinary day marks the moment the adventur
 
 * **Act I – The Hook (Roleplay):** Renata delivers the message and draws the adventurers into Thania’s contract.
 * **Act II – The Voyage (Tension & Survival):** The party endures the cold, growing distrust, and the first touch of the dragon’s influence.
-* **Act III – The Ice (Exploration & Combat):** The final confrontation and the discovery of the Koi Vaelithra.
+* * **Act III – The Ice (Exploration & Combat):** The frozen approach, exploration of the labyrinth, discovery of the Koi Vaelithra sanctuary, and the confrontation with Harann Nemmonis.
 * **Act IV – The Thaw (Resolution):** The dragon’s defeat lifts the curse, setting the stage for the next fragment.

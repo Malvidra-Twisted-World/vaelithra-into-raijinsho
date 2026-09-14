@@ -47,16 +47,16 @@ Roll 1d6 every 6–8 hours, or when the party rests, to inject tension and flavo
 
 ### Roleplay Thread: Kaelen’s Grudge
 
-During the second day, when the cold has fully set in, **Kaelen** (Bandit stats) will approach the party. Her tension comes from a deep, personal source—the death of her brother.
+During the second day, when the cold has fully set in, **Kaelen** (Bandit stats) will approach the party. His tension comes from a deep, personal source—the death of her brother.
 
 >  **Read-Aloud Text:**
-> Kaelen leans on the frozen railing, her breath smoking in the wind. She doesn’t look at you. “My brother went after that island five years ago. He thought the **Sacred Eye’s** gold was waiting for him. Harann sent back his body, frozen solid to a piece of driftwood.”
+> Kaelen leans on the frozen railing, his breath smoking in the wind. He doesn’t look at you. “My brother went after that island five years ago. He thought the **Sacred Eye’s** gold was waiting for him. Harann sent back his body, frozen solid to a piece of driftwood.”
 >
-> Her jaw tightens. “So forgive me if I don’t cheer for you high-and-mighty heroes chasing ghosts and magic. I hope you’re better fighters than he was, or we’ll all end up Frost-Cursed.”
+> His jaw tightens. “So forgive me if I don’t cheer for you high-and-mighty heroes chasing ghosts and magic. I hope you’re better fighters than he was, or we’ll all end up Frost-Cursed.”
 
-**Insight DC 13** reveals that her contempt is a mask for her grief and fear; she is intensely loyal to Captain Thania. A successful **Charisma (Persuasion) DC 15** check, or a genuinely empathetic response, will soften her tone.
+**Insight DC 13** reveals that his contempt is a mask for her grief and fear; he is intensely loyal to Captain Thania. A successful **Charisma (Persuasion) DC 15** check, or a genuinely empathetic response, will soften her tone.
 
-**Success:** Kaelen grudgingly respects the party's mettle. She shares a final, critical piece of lore: **“The Dragon-Kin Soldiers carry horns. They use them to shift the ice and block tunnels. If you hear the horn, change your plan.”**
+**Success:** Kaelen grudgingly respects the party's mettle. He shares a final, critical piece of lore: **“The Dragon-Kin Soldiers carry horns. They use them to shift the ice and block tunnels. If you hear the horn, change your plan.”**
 
 **Failure:** Kaelen remains suspicious and distrustful, making it harder to secure supplies or help from the pirate crew later on.
 
