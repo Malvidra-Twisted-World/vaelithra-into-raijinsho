@@ -68,53 +68,33 @@ In a medium-sized tunnel junction, the party discovers a chest fused into a shee
 * **Challenge:** The chest is covered in **2 inches of solid ice**. Characters must spend time or resources to free it. Requires **10 minutes** of sustained effort (and four successful **DC 15 Strength (Athletics)** checks) to free the chest.
 * **Loot:** The chest holds a minor reward: **500 gp** worth of mixed, frozen currency and **two Potions of Greater Healing**.
 
-### The Old Denizens: The Geothermal Locks (Puzzle)
+### The Old Denizens: The Serpent God's Secret Passage
 
-The winding tunnels occasionally reveal ancient, carved stone that predates the dragon, hinting at a former sanctuary. This can be solved to gain a tactical advantage or a minor reward.
+Near the entrance of the cave, the party may notice an ancient stone carving partially buried beneath layers of frost.
 
-### Path A: The Forgotten Sanctuary
+The carving depicts a great serpent coiled around a circular symbol. Unlike the surrounding cave walls, the stone is strangely warm to the touch.
 
-The geothermal mechanism groans beneath the stone. As the final lever is pressed, warmth pulses through the carved serpent and spreads into the frozen passage.
+A successful **DC 15 Investigation** check reveals that the carving is not merely decorative. There is a concealed mechanism beneath the serpent's body.
 
-The ice cracks.
+#### The Geothermal Lock
 
-A narrow chamber is revealed beyond.
+The mechanism is an ancient seal belonging to the Serpent God. It was designed to prevent the sanctuary beyond it from being accessed casually.
 
-> **Read-Aloud Text:**
-> Warm air rolls from the darkness.
->
-> Beyond the melted ice lies a small stone alcove, untouched by the dragon's corruption. Old serpent carvings cover the walls, their scales worn smooth by centuries of prayer and offerings.
->
-> At the center rests a shallow stone basin filled with ancient coins, gemstones, and a single jade carving of a coiled serpent.
->
-> Whatever this place once was, it was not built for thieves.
-> It was built for those who came seeking healing.
+A successful **DC 15 Arcana or Investigation** check allows a character to understand how the mechanism works.
 
-### Forgotten Sanctuary Treasure
+When activated correctly, the serpent's eyes briefly glow with a faint golden light. The surrounding ice begins to melt, revealing a narrow **secret passage** hidden within the cave wall.
 
-The chamber contains:
+The passage leads to an ancient sealed door.
 
-* **200 gp** in ancient Raijinsho coins. The coins bear the symbol of the Serpent God and may be worth more to collectors than their face value.
-* **3 × Gemstones**, each worth **50 gp**.
-* **1 × Potion of Superior Healing**, sealed within a ceramic container and miraculously preserved by the geothermal warmth.
-* **Serpent Idol**, a small jade carving worth **100 gp** as an art object.
+The door bears the same serpent symbol as the mechanism outside.
 
-### The Serpent's Inscription
+It has no visible handle or keyhole.
 
-A character who examines the walls and succeeds on a **DC 15 Intelligence (History or Religion)** check can decipher part of the ancient inscription:
+A character who touches the symbol while placing their hand against the door feels a faint warmth beneath the stone. The door opens only when the geothermal lock has been properly activated.
 
-> *“Strength without healing becomes cruelty. Envy without restraint becomes ruin. Seek neither perfection nor weakness. Seek balance.”*
+> **DM Note:** This passage is located near the cave entrance. It is not part of Harann's main route through the labyrinth and does not lead to the dragon's treasure chamber.
 
-The inscription provides additional context for the beliefs of Raijinsho's former inhabitants and foreshadows the connection between the island's ancient faith and the **Koi Vaelithra**.
-
-The **Serpent Idol** is non-magical and does not count toward Captain Thania's magic-item share.
-
-#### Puzzle: The Warm Path
-
-In a large central chamber, three paths lead deeper into the labyrinth. Two are choked with ice; the third is clear but marked by an ominous dragon claw scratch (Path C, the direct way to Harann).
-
-* **The Problem:** The two ice-choked paths (A and B) lead to a hidden stash or a bypass. The paths are sealed by a mechanical lock hidden on a carving of a great, coiled serpent (the denizens' original protector). A successful **DC 15 Intelligence (Investigation)** check reveals faint glyphs under the ice-slick, suggesting the path was once warmed by geothermal heat.
-* **The Solution:** A successful **DC 15 Intelligence (Arcana or Investigation)** check allows a character to activate the **Geothermal Lock** (a pressure/lever puzzle related to the serpent's scales). This action melts the ice from one of the choked paths (DM's choice: **Path A** leads to minor treasure; **Path B** leads to a direct, trap-free route to the lair).
+Beyond the door lies a small sanctuary untouched by Harann's influence.
 
 ### The Dragon's New Defenses
 
@@ -132,12 +112,50 @@ The final path (likely Path C or the successful Path B) leads to a massive, cave
 
 * **Final Encounter:** The party has reached the main lair of **Harann Nemmonis**.
 
-### The True Objective: The Koi Vaelithra (Post-Harann)
+### The True Objective: The Koi Vaelithra
 
-***(DM Note: This location is not discovered until after the dragon is defeated or forced to flee.)***
+Beyond the sealed door lies a small sanctuary of the Serpent God.
 
-Located in a small, hidden tunnel leading off the back of the dragon's main treasure chamber, the party finds a simple sheet of ice sealing a doorway.
+The chamber is strangely peaceful compared to the frozen labyrinth outside.
 
-* **Discovery:** A character succeeding on a **DC 17 Wisdom (Perception)** or **Intelligence (Investigation)** check notices that this sheet of ice has no dragon claw marks on it, and the ice appears thin—as if the dragon never noticed the seam.
-* **The Pond:** The tunnel opens into a small, naturally warm chamber (a comfortable 50°F / 10°C). In the center is a small, crystal-clear pond fed by a hidden geothermal source. Floating within the pond is the shimmering, silvery **Koi Fish Vaelithra**. The divine essence of the Koi is palpable, offering a moment of quiet peace amidst the ruin.
-* **The Reward:** The **Koi Vaelithra** will make a single, clear mental contact with the nearest character, transmitting vital, cryptic information about the next Vaelithra fragment, essentially providing the hook for the next adventure in the campaign. The party can then gather the **magic items** from Harann's main hoard, fulfilling their contract with Captain Thania.
+At its center is a small, perpetually warm **geothermal pond**. Steam gently rises from its surface, and the surrounding stone remains free of frost.
+
+Within the crystal-clear water swims a single shimmering silver koi.
+
+This is the **Koi Vaelithra**, a divine fragment of Vaeil.
+
+The koi does not behave like an ordinary creature. It moves calmly through the water, seemingly unaffected by the party's presence.
+
+When a character approaches the pond, the koi swims toward them.
+
+No spoken words are heard.
+
+Instead, a quiet presence enters the character's mind.
+
+> *You have found what the cold could not consume.*
+
+The Koi Vaelithra is not hostile. It is a fragment of divine power that has remained hidden within the sanctuary, protected by the warmth of the geothermal spring.
+
+### The Koi's Revelation
+
+The koi communicates through brief flashes of thought and emotion rather than conventional speech.
+
+The character receives visions of:
+
+- A vast darkness surrounding the world.
+- Eleven other fragments scattered across distant lands.
+- A woman carrying the same divine presence.
+- A dragon surrounded by endless white.
+- A future path that remains hidden from them.
+
+The Koi does not reveal everything.
+
+It only leaves the party with the unmistakable feeling that this discovery is part of something much larger.
+
+As the connection fades, a single **silver scale** separates from the koi and floats gently onto the surface of the pond.
+
+The scale remains warm despite the surrounding cold.
+
+> **DM Note:** The Koi Vaelithra is a divine entity, not a creature intended for combat. It cannot be captured or wielded like an ordinary monster or magic item.
+
+The party may leave the sanctuary and continue deeper into the labyrinth toward Harann's lair.
