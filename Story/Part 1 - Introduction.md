@@ -223,5 +223,5 @@ Renata’s presence in this perfectly ordinary day marks the moment the adventur
 
 * **Act I – The Hook (Roleplay):** Renata delivers the message and draws the adventurers into Thania’s contract.
 * **Act II – The Voyage (Tension & Survival):** The party endures the cold, growing distrust, and the first touch of the dragon’s influence.
-* * **Act III – The Ice (Exploration & Combat):** The frozen approach, exploration of the labyrinth, discovery of the Koi Vaelithra sanctuary, and the confrontation with Harann Nemmonis.
+* **Act III – The Ice (Exploration & Combat):** The frozen approach, exploration of the labyrinth, discovery of the Koi Vaelithra sanctuary, and the confrontation with Harann Nemmonis.
 * **Act IV – The Thaw (Resolution):** The dragon’s defeat lifts the curse, setting the stage for the next fragment.
