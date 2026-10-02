@@ -11,8 +11,8 @@ creatures:
 ^vinra1encounter1
 
 ```encounter
-name: VInRa 1 - On The Raijinsho Cave
-party: VInRa 1
+name: VInRa C - On The Raijinsho Cave
+party: VInRa C
 creatures:
   - 3:Frost-Cursed Mariner
   - Frost-Cursed Captain
@@ -22,8 +22,8 @@ creatures:
 ^vinra1encounter2
 
 ```encounter
-name: VInRa 1 - Harann Nemmosis Lair
-party:  VInRa 1
+name: VInRa C - Harann Nemmosis Lair
+party:  VInRa C
 creatures:
   - Harann Nemonis
   - Frost-Cursed Ogre
@@ -31,12 +31,3 @@ creatures:
   - 2:Frost-Cursed Chieftain
 ```
 ^vinra1encounter3
-
-```encounter
-name: (Optional) Azriel Meeting
-players:
-  - V
-creatures:
-  - Azriel
-```
-^vinra1encounterA1

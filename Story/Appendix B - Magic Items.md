@@ -1,4 +1,3 @@
-# Appendix B: Magic Items
 
 This appendix details the unique magical objects and the required loot for the adventure.
 
@@ -26,12 +25,37 @@ A perfectly smooth silver scale left behind by the Koi Vaelithra. Despite the fr
 
 The scale is not considered a replacement for the Koi Vaelithra itself. The divine fragment remains within its geothermal sanctuary.
 
+```statblock
+layout: Basic Item Layout
+name: Silver Scale
+type: Wondrous Item, Unique
+description: "A perfectly smooth silver scale left behind by the Koi Vaelithra. Despite the freezing environment of Raijinsho, the scale remains faintly warm to the touch."
+properties:
+  - name: "**Warmth of the Fragment:**"
+    desc: "The bearer has **Advantage on the first Constitution saving throw against Extreme Cold** they make each day."
+  - name: "**Divine Resonance:**"
+    desc: "The scale serves as a physical focus for the Koi Vaelithra's message and may react to other Vaelithra fragments or temporal anomalies."
+  - name: "**Campaign Item:**"
+    desc: "The Silver Scale is **not included in Captain Thania's 50% magic-item share**."
+lore: "The Koi Vaelithra is the **second fragment of Vaeil, the God of Time and Keeper of the Archives**. It appears as a shimmering, silvery Koi fish residing in a small, hidden, perpetually warm geothermal pond. The Koi is not a creature the party can simply claim or wield. It is a divine being and a living fragment of Vaeil. After **Harann Nemmonis** is defeated or driven away, the Koi makes a single mental contact with the nearest character, revealing a cryptic clue concerning the next Vaelithra fragment. The Koi then leaves behind a single **Silver Scale**, allowing the party to carry a tangible token of the fragment without removing the divine entity from its sanctuary."
+```
+
 #### Dragon-Kin Warhorn
 *Wondrous Item, Common*
 
 A horn carved from dark, fossilized wood and reinforced with bone, carried by the Dragon-Kin Soldiers for signaling within the labyrinth.
 
 * **Alert:** As an action, the horn can be blown. All **Dragon-Kin Soldiers** within a one-mile radius are immediately alerted to the location of the horn's sound.
+
+```statblock
+layout: Basic Item Layout
+name: Dragon-Kin Warhorn
+type: Wondrous Item, Common
+description: "A horn carved from dark, fossilized wood and reinforced with bone, carried by the Dragon-Kin Soldiers for signaling within the labyrinth."
+properties:
+  - name: Alert
+    desc: "As an action, the horn can be blown. All **Dragon-Kin Soldiers** within a one-mile radius are immediately alerted to the location of the horn's sound."
+```
 
 ## Harann's Hoard
 
@@ -87,3 +111,14 @@ Its current estimated value is approximately **5,000 gp**, although its true val
 The vial contains impressions rather than readable text. Prolonged study may reveal fragments of memories belonging to people who died on Raijinsho.
 
 The DM may use the Frozen Archive as a future lore hook connected to the history of Raijinsho, the Sacred Eye, or the wider **Vaelithra Saga**.
+
+```statblock
+layout: Basic Item Layout
+name: Frozen Archive
+type: Unique Art Object / Lore Item
+lore: "A perfectly preserved glass vial containing a swirling vortex of frozen mist and fragmented memories. The **Frozen Archive** is not counted as a magic item for purposes of Thania's 50% contract. Its current estimated value is approximately **5,000 gp**, although its true value may be considerably greater to scholars, historians, or anyone investigating the **Sundering** and the **Sacred Eye**. The vial contains impressions rather than readable text. Prolonged study may reveal fragments of memories belonging to people who died on Raijinsho."
+```
+
+![](https://i.imgur.com/mNdJpIw.jpeg)
+![](https://i.imgur.com/Kb12OO1.jpeg)
+![](https://i.imgur.com/6JwAErr.jpeg)
